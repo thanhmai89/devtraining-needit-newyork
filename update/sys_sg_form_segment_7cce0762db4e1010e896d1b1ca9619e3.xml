@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">70ce0762db4e1010e896d1b1ca9619e1</embedded_screen>
+        <form display_value="NeedIt Last Quarter">f0ce0762db4e1010e896d1b1ca9619de</form>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-20 02:43:21</sys_created_on>
+        <sys_id>7cce0762db4e1010e896d1b1ca9619e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_form_segment_7cce0762db4e1010e896d1b1ca9619e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-20 02:43:21</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>
